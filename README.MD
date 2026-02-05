@@ -2,6 +2,8 @@
 
 A beginner project to learn the fundamentals of system monitoring
 
+This project based on <https://roadmap.sh/projects/simple-monitoring-dashboard> challenge
+
 ## Features
 
 - Install Netdata on Linux
